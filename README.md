@@ -2,13 +2,11 @@
 
   Atualmente, estou fazendo um curso profissionalizante na escola Cubos Academy, tomei essa decisão, quando estava trabalhando em uma obra de servente e vi que aquilo não era para mim, dai falei com minha líder da igreja e ela me indicou estudar TI, e nisso fomos procurar escolas que fornecessem o programa "Sucesso compartilhado" e assim achamos a presente escola (você pode saber mais sobre indo no meu LinkedIn).
 
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/94023985/151900649-8d2a4ceb-adf4-4b06-bcf4-5af039555308.png" width="200px"/>
-</div>
-
 #
 
 ### Estou focado em:
+
+  <img align='right' src='https://user-images.githubusercontent.com/94023985/151900649-8d2a4ceb-adf4-4b06-bcf4-5af039555308.png' width='390px'>
 
   - Back-end <br>
   - Front-end
