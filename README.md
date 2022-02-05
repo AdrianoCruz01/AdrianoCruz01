@@ -36,4 +36,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianoutbox/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-cruz-6b1793194/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianoCruz01)
-[![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlLWnWnpHRpzgvLcTsKKpRMKgJSQdnNtFQjdddQvKHNmbSmdJlrxTLwSwFvxBNNHvHDQmL)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJlLWnWnpHRpzgvLcTsKKpRMKgJSQdnNtFQjdddQvKHNmbSmdJlrxTLwSwFvxBNNHvHDQmL)
