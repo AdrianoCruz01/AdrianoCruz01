@@ -12,7 +12,7 @@
   
   #### Aprendizagem no momento:
 
-  -   Desenvolvimento usando **PHP** trabalhando com **Laravel** **PostgreSQL**.
+  -   Desenvolvimento usando **PHP** trabalhando com **Laravel** e **PostgreSQL**.
   -   Desenvolvimento usando **Javascript** trabalhando **Node.Js** e **PostgreSQL**.
   -   Conhecimento em **POSTEGRE SQL** com **Banco de Dados Relacional** e **API REST**.
 
