@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu GitHub 👋
 
-  Atualmente, estou fazendo um curso profissionalizante na escola Cubos Academy, tomei essa decisão, quando estava trabalhando em uma obra de servente e vi que aquilo não era para mim, dai falei com minha líder da igreja e ela me indicou estudar TI, e nisso fomos procurar escolas que fornecessem o programa "Sucesso compartilhado" e assim achamos a presente escola (você pode saber mais sobre indo no meu LinkedIn).
+  Sou um profissional de TI, voltado para o backend, mas com um pleno conhecimento em frontend, banco de dados, é minha paixão, e estou voltado para o lado do segurança cibernetica.
 
 #
 
