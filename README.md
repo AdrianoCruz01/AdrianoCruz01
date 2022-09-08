@@ -8,7 +8,8 @@
 
   <img align='right' src='https://user-images.githubusercontent.com/94023985/151900649-8d2a4ceb-adf4-4b06-bcf4-5af039555308.png' width='390px' />
 
-  - Back-end 
+  - Front-end
+  - Back-end
   
   #### Aprendizagem no momento:
 
