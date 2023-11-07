@@ -12,8 +12,8 @@
   
   #### Aprendizagem no momento:
 
-  -   Desenvolvimento usando **Javascript** trabalhando **Node.Js** e **Nest.Js** usando **API REST**.
-  -   Conhecimento em **PostgreSQL** e **MongoDB**, **NoSQL** e **MySQL**.
+  -   Desenvolvimento usando **Javascript** e **Typescript** trabalhando **Node.Js** e **Nest.Js** com a estrutura **API REST**.
+  -   Conhecimento em **PostgreSQL** e **MongoDB**, **NoSQL**.
 
 <div style="display: inline_block"> 
   <img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
