@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu GitHub 👋
 
-  Sou um profissional de TI, voltado para o backend, mas com um pleno conhecimento em frontend, banco de dados, é minha paixão, e estou voltado para o lado do segurança cibernetica.
+  Sou um profissional de TI especializado em backend, mas possuo um sólido conhecimento em frontend e bancos de dados. Minha verdadeira paixão é a segurança cibernética, e estou focado em aprimorar minhas habilidades nessa área.
 
 #
 
